@@ -10,6 +10,6 @@
 
 
 ![Github](https://badgen.net/github/license/Continuous-X/jenkins-mirror-updater)
-![Github](https://badgen.net/github/commits/Continuous-X/jenkins-mirror-updater)
+![Github commits](https://badgen.net/github/commits/Continuous-X/jenkins-mirror-updater)
 
 jenkins mirror update cli
