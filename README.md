@@ -13,4 +13,6 @@
 ![Github commits](https://badgen.net/github/commits/Continuous-X/jenkins-mirror-updater)
 ![GitHub contributors](https://badgen.net/github/contributors/Continuous-X/jenkins-mirror-updater)
 
+[![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/)
+
 jenkins mirror update cli
