@@ -9,6 +9,7 @@
 [![HitCount](http://hits.dwyl.com/Continuous-X/jenkins-mirror-updater.svg)](http://hits.dwyl.com/Continuous-X/jenkins-mirror-updater)
 
 
-![Github](https://badgen.net/github/license/micromatch/micromatch)
+![Github](https://badgen.net/github/license/Continuous-X/jenkins-mirror-updater)
+![Github](https://badgen.net/github/commits/Continuous-X/jenkins-mirror-updater)
 
 jenkins mirror update cli
